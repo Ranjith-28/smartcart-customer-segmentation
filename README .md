@@ -35,7 +35,7 @@ Python | scikit-learn | pandas | matplotlib | seaborn | KneeLocator | PCA
 
 ## How to Run
 1. Clone this repository
-   git clone https://github.com/yourusername/smartcart-customer-segmentation
+   git clone 
 2. Install dependencies
    pip install -r requirements.txt
 3. Open the notebook
